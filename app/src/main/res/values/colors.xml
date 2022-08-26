@@ -10,5 +10,6 @@
 
     <color name="primary_fb">#3B5998</color>
     <color name="secondary_fb">#4B73C6</color>
+    <color name="gray_70">#B3272727</color>
 
 </resources>

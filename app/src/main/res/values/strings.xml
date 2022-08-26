@@ -7,6 +7,10 @@
     <string name="txt_sign_up">Sign Up for Facebook</string>
     <string name="txt_title_practices">Prácticas</string>
     <string name="txt_login_facebook">Log In Facebook</string>
+    <string name="txt_login_netflix">Log In Netflix</string>
     <string name="txt_sign_in_netflix">Sign In</string>
     <string name="txt_remember_me">Remember me</string>
+    <string name="txt_new_to_netflix">New to Netflix?</string>
+    <string name="txt_login_with_facebook">Login with Facebook</string>
+    <string name="txt_signup_now">Sign up now.</string>
 </resources>
