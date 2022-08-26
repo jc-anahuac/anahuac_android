@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Anahuac</string>
+    <string name="hint_email_or_phone_number">Email or phone number</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">Log In</string>
+    <string name="txt_need_help">Need Help?</string>
+    <string name="txt_sign_up">Sign Up for Facebook</string>
+    <string name="txt_title_practices">Prácticas</string>
+    <string name="txt_login_facebook">Log In Facebook</string>
+    <string name="txt_sign_in_netflix">Sign In</string>
+    <string name="txt_remember_me">Remember me</string>
+</resources>
