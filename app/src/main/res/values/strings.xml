@@ -8,9 +8,16 @@
     <string name="txt_title_practices">Prácticas</string>
     <string name="txt_login_facebook">Log In Facebook</string>
     <string name="txt_login_netflix">Log In Netflix</string>
+    <string name="txt_recycler_campus">Lista de campus</string>
     <string name="txt_sign_in_netflix">Sign In</string>
     <string name="txt_remember_me">Remember me</string>
     <string name="txt_new_to_netflix">New to Netflix?</string>
     <string name="txt_login_with_facebook">Login with Facebook</string>
     <string name="txt_signup_now">Sign up now.</string>
+    <string name="txt_anahuac_cancun">Universidad Anáhuac - Campus Ciudad de Mexico Norte</string>
+    <string name="btn_view_more">Ver más</string>
+    <string name="btn_alerta">Alerta</string>
+    <string name="btn_alerta_with_button">Alerta con botones</string>
+    <string name="btn_alerta_with_options">Alerta con opciones</string>
+
 </resources>

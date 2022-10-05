@@ -14,4 +14,5 @@
     <dimen name="margin_label_new_to_netflix_bottom">32dp</dimen>
     <dimen name="margin_medium">8dp</dimen>
     <dimen name="facebook_icon_size">24dp</dimen>
+    <dimen name="campus_image_height">200dp</dimen>
 </resources>

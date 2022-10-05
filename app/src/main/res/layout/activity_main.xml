@@ -36,4 +36,20 @@
         android:backgroundTint="@android:color/holo_red_light"
         android:text="@string/txt_login_netflix"/>
 
+    <Button
+        android:id="@+id/btn_recyclerview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:backgroundTint="@color/anahuac"
+        android:text="@string/txt_recycler_campus"/>
+
+    <Button
+        android:id="@+id/btn_alertas"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:backgroundTint="@color/black"
+        android:text="@string/btn_alerta"/>
+
 </LinearLayout>

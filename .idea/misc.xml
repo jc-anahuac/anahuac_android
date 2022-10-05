@@ -3,9 +3,22 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/drawable/bg_view_example.xml" value="0.145" />
+        <entry key="app/src/main/res/drawable/header_gradient.xml" value="0.1345" />
         <entry key="app/src/main/res/drawable/ic_facebook_icon.xml" value="0.189" />
+        <entry key="app/src/main/res/drawable/ic_logo_netflix.xml" value="0.145" />
+        <entry key="app/src/main/res/layout/activity_alert.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_examen_login.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_game.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_game2.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_list_campus.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_login2.xml" value="0.22" />
         <entry key="app/src/main/res/layout/activity_login_netflix.xml" value="0.2" />
-        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_recycler.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/example_constraint.xml" value="0.14945652173913043" />
+        <entry key="app/src/main/res/layout/recycler_item_view.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/view_campus_item.xml" value="0.33" />
       </map>
     </option>
   </component>
